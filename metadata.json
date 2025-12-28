@@ -1,0 +1,9 @@
+{
+  "name": "L2M Social",
+  "description": "A high-fidelity social networking PWA with chat, feed, profile, and customization features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
